@@ -1,0 +1,29 @@
+_repo: Books-Condemned-to-be-Burnt_31520
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farrer, James Anson
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '35293'
+    url: http://www.gutenberg.org/2009/agents/35293
+description: ''
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31520'
+  lccn: 04013208
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book burning -- Great Britain'
+- !lcc 'Z'
+- !lcsh 'Censorship -- Great Britain -- History'
+- !lcsh 'Prohibited books -- Great Britain -- History'
+title: Books Condemned to be Burnt
+url: http://www.gutenberg.org/ebooks/31520
